@@ -1,10 +1,8 @@
-# Sejong Kaggle Challengers
+# Dacon & Kaggle Challengers
 
 > 👑 방학동안 D A C O N 모든 대회 도전하기 👑
 
-## 📌 Kaggle Study 
-
-매주 화 21:00 / 금 20:00 (진행중)
+## 📌 Competition participate & Code Review
 
 | 번호 | 날짜 | 주제 | 설명 |
 |:---:|:---:|:---:|:---|
