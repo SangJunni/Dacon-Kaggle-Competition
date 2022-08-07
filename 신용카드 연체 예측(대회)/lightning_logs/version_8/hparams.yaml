@@ -1,0 +1,15 @@
+batch_size: 32
+cpu_workers: 8
+epochs: 50
+fp16: true
+lr: 5.0e-06
+lr_scheduler: exp
+max_length: 150
+optimizer: AdamW
+pretrained_model: beomi/KcELECTRA-base
+pretrained_tokenizer: ''
+random_seed: 42
+test_mode: false
+tpu_cores: 0
+train_data_path: ratings_train.csv
+val_data_path: ratings_train.csv
